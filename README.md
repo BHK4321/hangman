@@ -4,7 +4,6 @@ This project is an **interactive Hangman game** built with **Tkinter**, powered 
 
 ## 🧹 Features
 
-* 🎨 **Beautiful UI** with a classic hangman scaffold and animations.
 * 🧠 **AI prediction** using two models:
 
   * `solver1` is used when more than 50% of the word is revealed.
