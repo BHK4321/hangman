@@ -2,6 +2,7 @@
 
 This project is an **interactive Hangman game** built with **Tkinter**, powered by two AI-based solvers that predict the next letter based on the current word state. The solvers adapt their strategy based on how much of the word is already revealed.
 
+50% accuracy!!!
 ## 🧹 Features
 
 * 🧠 **AI prediction** using two models:
