@@ -65,15 +65,3 @@ The models are trained on Hangman patterns and choose the next letter based on:
 
 📌 `solver1` → High-context guessing (≥50% known)
 📌 `solver2` → Low-context guessing (<50% known)
-
-## 📸 Screenshots
-
-> Add screenshots from your game UI here if possible.
-
-## 🤛\200d♂️ Contributions
-
-Feel free to fork the repo or suggest enhancements like:
-
-* Automatic word detection via OCR
-* Keyboard input instead of manual typing
-* Online multiplayer hangman
