@@ -4,11 +4,6 @@ This repository features an advanced neural network-based Hangman solver that le
 
 ## Accuracy - 50% (90% on larger words)
 
-### How to run ?
-
-
-![EnhancedHangmanModel1 Architecture](assets/1.png)
-
 ## Features
 
 - **Deep Contextual Model:** Uses a neural network with character embeddings, CNN pattern extraction, sequence encoding, and context-aware decoders.
