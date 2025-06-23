@@ -1,0 +1,2492 @@
+Successfully start a new game! Game ID: 64707a5450d1. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ r _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ a _ _ r _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ a t _ r _ _ t '}
+Guessing letter: s
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': 's e _ _ s a t _ r _ s t '}
+Guessing letter: i
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 6, 'word': 's e _ _ s a t i r i s t '}
+Guessing letter: m
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 5, 'word': 's e _ _ s a t i r i s t '}
+Guessing letter: n
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 4, 'word': 's e _ _ s a t i r i s t '}
+Guessing letter: l
+Sever response: {'game_id': '64707a5450d1', 'status': 'ongoing', 'tries_remains': 4, 'word': 's e l _ s a t i r i s t '}
+Guessing letter: f
+Sever response: {'game_id': '64707a5450d1', 'status': 'success', 'tries_remains': 4, 'word': 's e l f s a t i r i s t '}
+Successfully finished game: 64707a5450d1
+accuracy = 100.000%
+Successfully start a new game! Game ID: 1e9cd63264a6. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ r _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ r _ _ e '}
+Guessing letter: o
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ r _ _ e '}
+Guessing letter: t
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ r _ _ e '}
+Guessing letter: i
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ r i _ e '}
+Guessing letter: b
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e _ r i _ e '}
+Guessing letter: m
+Sever response: {'game_id': '1e9cd63264a6', 'status': 'failed', 'tries_remains': 0, 'word': '_ e _ r i _ e '}
+Failed game: 1e9cd63264a6. Because of: # of tries exceeded!
+accuracy = 50.000%
+Successfully start a new game! Game ID: 4a9dc32b52ce. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ l _ _ _ _ l e '}
+Guessing letter: a
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ l _ _ _ _ l e '}
+Guessing letter: o
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ l o _ _ _ l e '}
+Guessing letter: n
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ l o _ _ _ l e '}
+Guessing letter: i
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ i l o _ _ _ l e '}
+Guessing letter: b
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i l o _ _ _ l e '}
+Guessing letter: m
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ i l o _ _ _ l e '}
+Guessing letter: k
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'ongoing', 'tries_remains': 1, 'word': 'k i l o _ _ _ l e '}
+Guessing letter: s
+Sever response: {'game_id': '4a9dc32b52ce', 'status': 'failed', 'tries_remains': 0, 'word': 'k i l o _ _ _ l e '}
+Failed game: 4a9dc32b52ce. Because of: # of tries exceeded!
+accuracy = 33.333%
+Successfully start a new game! Game ID: f02bc7e661fd. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ i _ _ _ _ _ _ _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ i _ n _ _ _ _ _ i _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ i a n _ _ a _ _ i _ _ '}
+Guessing letter: m
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 6, 'word': 'm a _ i a n _ _ a _ _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 5, 'word': 'm a _ i a n _ _ a _ _ i _ _ '}
+Guessing letter: o
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 5, 'word': 'm a _ i a n o _ a _ _ i _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 5, 'word': 'm a r i a n o _ a _ r i _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 5, 'word': 'm a r i a n o _ a _ r i s _ '}
+Guessing letter: t
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 5, 'word': 'm a r i a n o _ a t r i s t '}
+Guessing letter: p
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 4, 'word': 'm a r i a n o _ a t r i s t '}
+Guessing letter: c
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm a r i a n o _ a t r i s t '}
+Guessing letter: b
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 2, 'word': 'm a r i a n o _ a t r i s t '}
+Guessing letter: g
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'ongoing', 'tries_remains': 1, 'word': 'm a r i a n o _ a t r i s t '}
+Guessing letter: k
+Sever response: {'game_id': 'f02bc7e661fd', 'status': 'failed', 'tries_remains': 0, 'word': 'm a r i a n o _ a t r i s t '}
+Failed game: f02bc7e661fd. Because of: # of tries exceeded!
+accuracy = 25.000%
+Successfully start a new game! Game ID: c74efe4f843e. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e r _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e r a _ '}
+Guessing letter: n
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e r a _ '}
+Guessing letter: t
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e r a _ '}
+Guessing letter: l
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ l e r a _ '}
+Guessing letter: o
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ l e r a _ '}
+Guessing letter: i
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ l e r a _ '}
+Guessing letter: u
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ l e r a _ '}
+Guessing letter: c
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ c l e r a _ '}
+Guessing letter: s
+Sever response: {'game_id': 'c74efe4f843e', 'status': 'success', 'tries_remains': 1, 'word': 's c l e r a s '}
+Successfully finished game: c74efe4f843e
+accuracy = 40.000%
+Successfully start a new game! Game ID: 1d4f7a697a5b. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ i _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ r _ _ i _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ r _ _ i _ _ '}
+Guessing letter: u
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ r u _ i _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ r u _ i t _ '}
+Guessing letter: c
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 1, 'word': 'c r u _ i t _ '}
+Guessing letter: y
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'ongoing', 'tries_remains': 1, 'word': 'c r u _ i t y '}
+Guessing letter: m
+Sever response: {'game_id': '1d4f7a697a5b', 'status': 'failed', 'tries_remains': 0, 'word': 'c r u _ i t y '}
+Failed game: 1d4f7a697a5b. Because of: # of tries exceeded!
+accuracy = 33.333%
+Successfully start a new game! Game ID: 42590363b058. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ e _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ e _ _ _ r _ '}
+Guessing letter: a
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ e a _ _ e _ _ _ r _ '}
+Guessing letter: n
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ e a _ _ e n _ _ r _ '}
+Guessing letter: t
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ e a _ t e n _ _ r _ '}
+Guessing letter: l
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ e a l t e n _ _ r _ '}
+Guessing letter: d
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ e a l t e n _ _ r _ '}
+Guessing letter: b
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ e a l t e n b _ r _ '}
+Guessing letter: o
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ e a l t e n b _ r _ '}
+Guessing letter: h
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ e a l t e n b _ r _ '}
+Guessing letter: u
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ e a l t e n b u r _ '}
+Guessing letter: g
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ e a l t e n b u r g '}
+Guessing letter: c
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a _ e a l t e n b u r g '}
+Guessing letter: m
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a _ e a l t e n b u r g '}
+Guessing letter: s
+Sever response: {'game_id': '42590363b058', 'status': 'ongoing', 'tries_remains': 1, 'word': 's a _ e a l t e n b u r g '}
+Guessing letter: v
+Sever response: {'game_id': '42590363b058', 'status': 'failed', 'tries_remains': 0, 'word': 's a _ e a l t e n b u r g '}
+Failed game: 42590363b058. Because of: # of tries exceeded!
+accuracy = 28.571%
+Successfully start a new game! Game ID: 2d6233f68e26. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ i _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ n _ _ i _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ n _ _ i _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h _ _ n _ _ i _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h _ _ n o _ i _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h _ _ n o _ i _ _ _ '}
+Guessing letter: y
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h y _ n o _ i _ _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h y p n o _ i _ _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 2, 'word': 'h y p n o _ i _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h y p n o _ i _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '2d6233f68e26', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h y p n o _ i s _ s '}
+Guessing letter: t
+Sever response: {'game_id': '2d6233f68e26', 'status': 'success', 'tries_remains': 1, 'word': 'h y p n o t i s t s '}
+Successfully finished game: 2d6233f68e26
+accuracy = 37.500%
+Successfully start a new game! Game ID: a78f010b2fee. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 6, 'word': 'h _ _ _ _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h _ _ _ _ e _ '}
+Guessing letter: o
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h o _ _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h o _ _ _ e _ '}
+Guessing letter: l
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h o _ _ l e _ '}
+Guessing letter: m
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h o _ _ l e _ '}
+Guessing letter: n
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 2, 'word': 'h o _ _ l e _ '}
+Guessing letter: i
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h o _ _ l e _ '}
+Guessing letter: s
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h o _ _ l e s '}
+Guessing letter: b
+Sever response: {'game_id': 'a78f010b2fee', 'status': 'success', 'tries_remains': 1, 'word': 'h o b b l e s '}
+Successfully finished game: a78f010b2fee
+accuracy = 44.444%
+Successfully start a new game! Game ID: 1602d0991d80. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 3, 'word': 'a _ _ _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a _ _ _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a s _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a s _ _ _ t '}
+Guessing letter: h
+Sever response: {'game_id': '1602d0991d80', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a s h _ _ t '}
+Guessing letter: o
+Sever response: {'game_id': '1602d0991d80', 'status': 'failed', 'tries_remains': 0, 'word': 'a s h _ _ t '}
+Failed game: 1602d0991d80. Because of: # of tries exceeded!
+accuracy = 40.000%
+Successfully start a new game! Game ID: 11ccbb3104bf. # of tries remaining: 6. Word: _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '11ccbb3104bf', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ '}
+Failed game: 11ccbb3104bf. Because of: # of tries exceeded!
+accuracy = 36.364%
+Successfully start a new game! Game ID: 29cb5c1a5a06. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ r _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ r _ e _ '}
+Guessing letter: o
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ r _ e _ '}
+Guessing letter: u
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ r _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ r _ e n '}
+Guessing letter: d
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 3, 'word': 'd _ r _ e n '}
+Guessing letter: l
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 2, 'word': 'd _ r _ e n '}
+Guessing letter: s
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 1, 'word': 'd _ r _ e n '}
+Guessing letter: t
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'ongoing', 'tries_remains': 1, 'word': 'd _ r t e n '}
+Guessing letter: i
+Sever response: {'game_id': '29cb5c1a5a06', 'status': 'success', 'tries_remains': 1, 'word': 'd i r t e n '}
+Successfully finished game: 29cb5c1a5a06
+accuracy = 41.667%
+Successfully start a new game! Game ID: e6e3608c6afd. # of tries remaining: 6. Word: _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ '}
+Guessing letter: m
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ '}
+Guessing letter: b
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a _ _ '}
+Guessing letter: k
+Sever response: {'game_id': 'e6e3608c6afd', 'status': 'failed', 'tries_remains': 0, 'word': '_ a _ _ '}
+Failed game: e6e3608c6afd. Because of: # of tries exceeded!
+accuracy = 38.462%
+Successfully start a new game! Game ID: 5a2f6c8ad05d. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ _ s _ '}
+Guessing letter: h
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ _ _ s _ '}
+Guessing letter: t
+Sever response: {'game_id': '5a2f6c8ad05d', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ _ _ s _ '}
+Failed game: 5a2f6c8ad05d. Because of: # of tries exceeded!
+accuracy = 35.714%
+Successfully start a new game! Game ID: c6bd8997456e. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ r _ _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ r _ _ a _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ r _ _ a _ _ e '}
+Guessing letter: t
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e _ _ r _ _ a _ _ e '}
+Guessing letter: i
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e _ _ r i _ a _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ n _ e _ _ r i _ a _ _ e '}
+Guessing letter: d
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ n d e _ _ r i _ a _ _ e '}
+Guessing letter: u
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 4, 'word': 'u n d e _ _ r i _ a _ _ e '}
+Guessing letter: v
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'u n d e _ _ r i _ a _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'u n d e _ _ r i _ a _ l e '}
+Guessing letter: b
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'u n d e _ _ r i b a b l e '}
+Guessing letter: s
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'u n d e s _ r i b a b l e '}
+Guessing letter: c
+Sever response: {'game_id': 'c6bd8997456e', 'status': 'success', 'tries_remains': 3, 'word': 'u n d e s c r i b a b l e '}
+Successfully finished game: c6bd8997456e
+accuracy = 40.000%
+Successfully start a new game! Game ID: 8aea2b1392ce. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ h _ e _ '}
+Guessing letter: c
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ c h _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ a _ c h _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r a _ c h _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r a n c h _ e _ '}
+Guessing letter: b
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 6, 'word': 'b r a n c h _ e _ '}
+Guessing letter: i
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 5, 'word': 'b r a n c h _ e _ '}
+Guessing letter: s
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 4, 'word': 'b r a n c h _ e _ '}
+Guessing letter: d
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 3, 'word': 'b r a n c h _ e _ '}
+Guessing letter: w
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 2, 'word': 'b r a n c h _ e _ '}
+Guessing letter: l
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'ongoing', 'tries_remains': 2, 'word': 'b r a n c h l e _ '}
+Guessing letter: t
+Sever response: {'game_id': '8aea2b1392ce', 'status': 'success', 'tries_remains': 2, 'word': 'b r a n c h l e t '}
+Successfully finished game: 8aea2b1392ce
+accuracy = 43.750%
+Successfully start a new game! Game ID: 3812cdb93c7a. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 5, 'word': 'e _ _ _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 5, 'word': 'e n _ _ e _ '}
+Guessing letter: t
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 4, 'word': 'e n _ _ e _ '}
+Guessing letter: d
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e n _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e n _ r e _ '}
+Guessing letter: s
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e n _ r e s '}
+Guessing letter: c
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 2, 'word': 'e n _ r e s '}
+Guessing letter: g
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'ongoing', 'tries_remains': 1, 'word': 'e n _ r e s '}
+Guessing letter: f
+Sever response: {'game_id': '3812cdb93c7a', 'status': 'failed', 'tries_remains': 0, 'word': 'e n _ r e s '}
+Failed game: 3812cdb93c7a. Because of: # of tries exceeded!
+accuracy = 41.176%
+Successfully start a new game! Game ID: 585d8ca3d660. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e r _ e r _ '}
+Guessing letter: a
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e r _ e r _ '}
+Guessing letter: i
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e r _ e r _ '}
+Guessing letter: b
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e r _ e r _ '}
+Guessing letter: o
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e r _ e r _ '}
+Guessing letter: h
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e r _ e r _ '}
+Guessing letter: m
+Sever response: {'game_id': '585d8ca3d660', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e r m e r _ '}
+Guessing letter: k
+Sever response: {'game_id': '585d8ca3d660', 'status': 'failed', 'tries_remains': 0, 'word': '_ e r m e r _ '}
+Failed game: 585d8ca3d660. Because of: # of tries exceeded!
+accuracy = 38.889%
+Successfully start a new game! Game ID: 4086a3dc5215. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ i _ _ _ _ i _ _ _ i _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ i _ _ _ _ i _ _ _ i n _ _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ i _ _ _ _ i _ _ _ i n g _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ i _ _ _ _ i _ _ _ i n g _ _ '}
+Guessing letter: u
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ i _ _ _ _ i _ _ _ i n g _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ i _ _ _ _ i _ _ _ i n g l _ '}
+Guessing letter: e
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ i _ _ _ _ i _ _ _ i n g l _ '}
+Guessing letter: a
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ i _ _ a _ i _ _ _ i n g l _ '}
+Guessing letter: m
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i _ _ a _ i _ _ _ i n g l _ '}
+Guessing letter: y
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i _ _ a _ i _ _ y i n g l y '}
+Guessing letter: s
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i s s a _ i s _ y i n g l y '}
+Guessing letter: t
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i s s a t i s _ y i n g l y '}
+Guessing letter: f
+Sever response: {'game_id': '4086a3dc5215', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ i s s a t i s f y i n g l y '}
+Guessing letter: d
+Sever response: {'game_id': '4086a3dc5215', 'status': 'success', 'tries_remains': 2, 'word': 'd i s s a t i s f y i n g l y '}
+Successfully finished game: 4086a3dc5215
+accuracy = 42.105%
+Successfully start a new game! Game ID: 943b3b57329f. # of tries remaining: 6. Word: _ _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ e _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ e _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ e n _ '}
+Guessing letter: t
+Sever response: {'game_id': '943b3b57329f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ t e n t '}
+Guessing letter: s
+Sever response: {'game_id': '943b3b57329f', 'status': 'success', 'tries_remains': 3, 'word': 's t e n t '}
+Successfully finished game: 943b3b57329f
+accuracy = 45.000%
+Successfully start a new game! Game ID: 8b888ff65602. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ n _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e a n _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ e a n _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ e a n _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ e a n _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '8b888ff65602', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ _ e a n _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '8b888ff65602', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ _ e a n _ _ '}
+Failed game: 8b888ff65602. Because of: # of tries exceeded!
+accuracy = 42.857%
+Successfully start a new game! Game ID: 26569a4faba9. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ n _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ n _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ n i _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e c _ n i c _ '}
+Guessing letter: h
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e c h n i c _ '}
+Guessing letter: t
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 4, 'word': 't e c h n i c _ '}
+Guessing letter: o
+Sever response: {'game_id': '26569a4faba9', 'status': 'ongoing', 'tries_remains': 3, 'word': 't e c h n i c _ '}
+Guessing letter: s
+Sever response: {'game_id': '26569a4faba9', 'status': 'success', 'tries_remains': 3, 'word': 't e c h n i c s '}
+Successfully finished game: 26569a4faba9
+accuracy = 45.455%
+Successfully start a new game! Game ID: 5587fe32c9d3. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ l e '}
+Guessing letter: a
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ a _ l e '}
+Guessing letter: b
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ a b l e '}
+Guessing letter: n
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ n a b l e '}
+Guessing letter: i
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ n a b l e '}
+Guessing letter: m
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ _ n a b l e '}
+Guessing letter: s
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e _ _ n a b l e '}
+Guessing letter: d
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 1, 'word': 'd e _ _ n a b l e '}
+Guessing letter: o
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'ongoing', 'tries_remains': 1, 'word': 'd e _ o n a b l e '}
+Guessing letter: t
+Sever response: {'game_id': '5587fe32c9d3', 'status': 'success', 'tries_remains': 1, 'word': 'd e t o n a b l e '}
+Successfully finished game: 5587fe32c9d3
+accuracy = 47.826%
+Successfully start a new game! Game ID: 5af998367e0d. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ i _ _ _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ i _ _ _ i _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r _ _ _ _ _ r _ i _ _ _ i _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r e _ _ _ _ r _ i _ _ _ i _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ r _ i _ _ _ i _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ r _ i _ a _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ r _ i n a _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ r _ i n a _ i n g '}
+Guessing letter: t
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ r _ i n a t i n g '}
+Guessing letter: l
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p r e _ _ _ _ r _ i n a t i n g '}
+Guessing letter: d
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p r e _ _ _ _ r d i n a t i n g '}
+Guessing letter: o
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p r e _ _ _ o r d i n a t i n g '}
+Guessing letter: c
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r e _ _ _ o r d i n a t i n g '}
+Guessing letter: s
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r e s _ _ o r d i n a t i n g '}
+Guessing letter: u
+Sever response: {'game_id': '5af998367e0d', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r e s u _ o r d i n a t i n g '}
+Guessing letter: b
+Sever response: {'game_id': '5af998367e0d', 'status': 'success', 'tries_remains': 3, 'word': 'p r e s u b o r d i n a t i n g '}
+Successfully finished game: 5af998367e0d
+accuracy = 50.000%
+Successfully start a new game! Game ID: a773f0870117. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ i _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ i n _ _ _ n _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a _ _ _ a i n _ _ _ n _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ a i n _ _ _ n _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ a i n t _ _ n _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a _ _ _ a i n t _ _ n _ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a _ _ _ a i n t e _ n e _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a _ _ _ a i n t e _ n e s s '}
+Guessing letter: l
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 3, 'word': 'a _ _ _ a i n t e _ n e s s '}
+Guessing letter: m
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a _ _ _ a i n t e _ n e s s '}
+Guessing letter: c
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a c _ _ a i n t e _ n e s s '}
+Guessing letter: d
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a c _ _ a i n t e d n e s s '}
+Guessing letter: p
+Sever response: {'game_id': 'a773f0870117', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a c _ _ a i n t e d n e s s '}
+Guessing letter: k
+Sever response: {'game_id': 'a773f0870117', 'status': 'failed', 'tries_remains': 0, 'word': 'a c _ _ a i n t e d n e s s '}
+Failed game: a773f0870117. Because of: # of tries exceeded!
+accuracy = 48.000%
+Successfully start a new game! Game ID: 19c9b9ae49a3. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ n e _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ _ n e _ a '}
+Guessing letter: i
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ _ n e _ a '}
+Guessing letter: m
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ _ n e m a '}
+Guessing letter: b
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ _ _ n e m a '}
+Guessing letter: l
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a _ _ _ n e m a '}
+Guessing letter: c
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a c _ _ n e m a '}
+Guessing letter: k
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a c _ _ n e m a '}
+Guessing letter: h
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a c h _ n e m a '}
+Guessing letter: s
+Sever response: {'game_id': '19c9b9ae49a3', 'status': 'failed', 'tries_remains': 0, 'word': '_ a c h _ n e m a '}
+Failed game: 19c9b9ae49a3. Because of: # of tries exceeded!
+accuracy = 46.154%
+Successfully start a new game! Game ID: e14175be6803. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ i _ '}
+Guessing letter: h
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h _ _ _ _ _ _ _ _ _ _ h _ _ _ h _ _ i _ '}
+Guessing letter: c
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h _ _ _ _ _ _ _ _ _ _ h _ _ _ h _ _ i c '}
+Guessing letter: e
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ _ _ e _ _ _ _ _ h _ _ _ h _ _ i c '}
+Guessing letter: o
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o _ e _ o _ o _ h o _ _ h o _ i c '}
+Guessing letter: p
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o _ e _ o _ o p h o _ p h o _ i c '}
+Guessing letter: s
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o s e _ o _ o p h o s p h o _ i c '}
+Guessing letter: m
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o s e m o _ o p h o s p h o _ i c '}
+Guessing letter: n
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o s e m o n o p h o s p h o _ i c '}
+Guessing letter: r
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ o s e m o n o p h o s p h o r i c '}
+Guessing letter: l
+Sever response: {'game_id': 'e14175be6803', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h e _ o s e m o n o p h o s p h o r i c '}
+Guessing letter: x
+Sever response: {'game_id': 'e14175be6803', 'status': 'success', 'tries_remains': 4, 'word': 'h e x o s e m o n o p h o s p h o r i c '}
+Successfully finished game: e14175be6803
+accuracy = 48.148%
+Successfully start a new game! Game ID: bff9cb6efeed. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 6, 'word': 'r e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 4, 'word': 'r e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: d
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ _ _ _ _ _ _ n _ '}
+Guessing letter: i
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ _ i _ i _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ _ i _ i _ i n g '}
+Guessing letter: m
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e m _ _ i _ i _ i n g '}
+Guessing letter: l
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e m _ _ i l i _ i n g '}
+Guessing letter: t
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r e m _ _ i l i _ i n g '}
+Guessing letter: z
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r e m _ _ i l i z i n g '}
+Guessing letter: u
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'ongoing', 'tries_remains': 1, 'word': 'r e m _ _ i l i z i n g '}
+Guessing letter: v
+Sever response: {'game_id': 'bff9cb6efeed', 'status': 'failed', 'tries_remains': 0, 'word': 'r e m _ _ i l i z i n g '}
+Failed game: bff9cb6efeed. Because of: # of tries exceeded!
+accuracy = 46.429%
+Successfully start a new game! Game ID: 48940a492783. # of tries remaining: 6. Word: _ _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ s _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ s _ i _ '}
+Guessing letter: h
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ s _ i _ '}
+Guessing letter: t
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ s _ i _ '}
+Guessing letter: o
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s _ i _ '}
+Guessing letter: n
+Sever response: {'game_id': '48940a492783', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s n i n '}
+Guessing letter: u
+Sever response: {'game_id': '48940a492783', 'status': 'success', 'tries_remains': 1, 'word': 'u s n i n '}
+Successfully finished game: 48940a492783
+accuracy = 48.276%
+Successfully start a new game! Game ID: c1e0e5e5c218. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ _ _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ i _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ a _ i _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r _ _ _ _ _ _ _ _ a _ i _ _ '}
+Guessing letter: e
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ e _ _ a _ i _ e '}
+Guessing letter: n
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ e n _ a _ i _ e '}
+Guessing letter: t
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ e n _ a t i _ e '}
+Guessing letter: v
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ e n _ a t i v e '}
+Guessing letter: d
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r e _ _ _ _ e n d a t i v e '}
+Guessing letter: s
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 4, 'word': 'r e _ _ _ _ e n d a t i v e '}
+Guessing letter: p
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ _ _ e n d a t i v e '}
+Guessing letter: m
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ _ m m e n d a t i v e '}
+Guessing letter: o
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r e _ o m m e n d a t i v e '}
+Guessing letter: c
+Sever response: {'game_id': 'c1e0e5e5c218', 'status': 'success', 'tries_remains': 3, 'word': 'r e c o m m e n d a t i v e '}
+Successfully finished game: c1e0e5e5c218
+accuracy = 50.000%
+Successfully start a new game! Game ID: 22ec200d5ff3. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ r _ _ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e n _ r _ _ e _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e n t r _ _ e _ _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c e n t r _ _ e _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 5, 'word': 'c e n t r _ _ e _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 4, 'word': 'c e n t r _ _ e _ _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 4, 'word': 'c e n t r o _ e _ _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 4, 'word': 'c e n t r o _ e _ m _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 3, 'word': 'c e n t r o _ e _ m _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 3, 'word': 'c e n t r o d e _ m _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'ongoing', 'tries_remains': 3, 'word': 'c e n t r o d e s m _ s '}
+Guessing letter: u
+Sever response: {'game_id': '22ec200d5ff3', 'status': 'success', 'tries_remains': 3, 'word': 'c e n t r o d e s m u s '}
+Successfully finished game: 22ec200d5ff3
+accuracy = 51.613%
+Successfully start a new game! Game ID: a016b3e8f50f. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ i _ _ _ _ i _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ i _ _ _ _ i _ i _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r i _ _ _ _ i _ i _ _ '}
+Guessing letter: p
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ _ _ i _ i _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ a _ i _ i _ _ '}
+Guessing letter: b
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ a b i _ i _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ a b i l i _ _ '}
+Guessing letter: t
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ a b i l i t _ '}
+Guessing letter: y
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ a b i l i t y '}
+Guessing letter: s
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ r i _ _ a b i l i t y '}
+Guessing letter: n
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ r i n _ a b i l i t y '}
+Guessing letter: g
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ r i n _ a b i l i t y '}
+Guessing letter: c
+Sever response: {'game_id': 'a016b3e8f50f', 'status': 'failed', 'tries_remains': 0, 'word': '_ r i n _ a b i l i t y '}
+Failed game: a016b3e8f50f. Because of: # of tries exceeded!
+accuracy = 50.000%
+Successfully start a new game! Game ID: eeeda5409539. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ e _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ r _ _ _ _ _ e r _ '}
+Guessing letter: a
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a r _ _ a _ _ e r _ '}
+Guessing letter: n
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a r _ _ a n _ e r n '}
+Guessing letter: d
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': 'd a r _ _ a n _ e r n '}
+Guessing letter: t
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 5, 'word': 'd a r _ _ a n t e r n '}
+Guessing letter: s
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 4, 'word': 'd a r _ _ a n t e r n '}
+Guessing letter: c
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 3, 'word': 'd a r _ _ a n t e r n '}
+Guessing letter: l
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 3, 'word': 'd a r _ l a n t e r n '}
+Guessing letter: o
+Sever response: {'game_id': 'eeeda5409539', 'status': 'ongoing', 'tries_remains': 2, 'word': 'd a r _ l a n t e r n '}
+Guessing letter: k
+Sever response: {'game_id': 'eeeda5409539', 'status': 'success', 'tries_remains': 2, 'word': 'd a r k l a n t e r n '}
+Successfully finished game: eeeda5409539
+accuracy = 51.515%
+Successfully start a new game! Game ID: 8f15381aea68. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 6, 'word': 'i _ _ _ _ _ _ _ i _ _ _ i _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 6, 'word': 'i n _ _ _ _ _ _ i _ _ _ i n _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n _ _ _ _ _ _ i _ _ _ i n _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t _ _ _ _ t i t _ _ i n _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e _ _ _ t i t _ _ i n _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e r _ _ t i t _ _ i n _ _ '}
+Guessing letter: u
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e r _ _ t i t u _ i n _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i n t e r _ _ t i t u _ i n _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i n t e r _ a t i t u _ i n a _ '}
+Guessing letter: c
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i n t e r _ a t i t u _ i n a _ '}
+Guessing letter: l
+Sever response: {'game_id': '8f15381aea68', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i n t e r l a t i t u _ i n a l '}
+Guessing letter: d
+Sever response: {'game_id': '8f15381aea68', 'status': 'success', 'tries_remains': 3, 'word': 'i n t e r l a t i t u d i n a l '}
+Successfully finished game: 8f15381aea68
+accuracy = 52.941%
+Successfully start a new game! Game ID: 87b1de579d6e. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e _ _ _ _ _ _ e _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e _ _ _ h _ _ e _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e a _ _ h _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e a r _ h _ _ e _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e a r t h _ _ e _ t '}
+Guessing letter: s
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e a r t h _ _ e s t '}
+Guessing letter: w
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 5, 'word': 'e a r t h _ _ e s t '}
+Guessing letter: v
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 4, 'word': 'e a r t h _ _ e s t '}
+Guessing letter: y
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e a r t h _ _ e s t '}
+Guessing letter: l
+Sever response: {'game_id': '87b1de579d6e', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e a r t h l _ e s t '}
+Guessing letter: i
+Sever response: {'game_id': '87b1de579d6e', 'status': 'success', 'tries_remains': 3, 'word': 'e a r t h l i e s t '}
+Successfully finished game: 87b1de579d6e
+accuracy = 54.286%
+Successfully start a new game! Game ID: 1267a378cc1f. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ i _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ i _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ _ _ _ _ _ _ _ _ _ i _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ _ _ r _ _ r _ _ _ i _ _ _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ _ _ r _ _ r _ _ h i _ _ _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ _ _ r o _ r _ _ h i _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ _ _ r o _ r a _ h i _ a _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ c _ r o _ r a _ h i c a _ _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's _ _ c _ r o g r a _ h i c a _ _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's p _ c _ r o g r a p h i c a _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's p _ c _ r o g r a p h i c a l l _ '}
+Guessing letter: y
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's p _ c _ r o g r a p h i c a l l y '}
+Guessing letter: e
+Sever response: {'game_id': '1267a378cc1f', 'status': 'ongoing', 'tries_remains': 5, 'word': 's p e c _ r o g r a p h i c a l l y '}
+Guessing letter: t
+Sever response: {'game_id': '1267a378cc1f', 'status': 'success', 'tries_remains': 5, 'word': 's p e c t r o g r a p h i c a l l y '}
+Successfully finished game: 1267a378cc1f
+accuracy = 55.556%
+Successfully start a new game! Game ID: 00724d3f7772. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ s _ _ e _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s _ _ e _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s _ _ e _ _ a '}
+Guessing letter: h
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s _ h e _ _ a '}
+Guessing letter: c
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s c h e _ _ a '}
+Guessing letter: m
+Sever response: {'game_id': '00724d3f7772', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ s c h e _ m a '}
+Guessing letter: o
+Sever response: {'game_id': '00724d3f7772', 'status': 'success', 'tries_remains': 1, 'word': 'o s c h e o m a '}
+Successfully finished game: 00724d3f7772
+accuracy = 56.757%
+Successfully start a new game! Game ID: 98fc0c330353. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e r _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ e r _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ e r _ n _ '}
+Guessing letter: i
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a i _ e r i n _ '}
+Guessing letter: g
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a i _ e r i n _ '}
+Guessing letter: m
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a i _ e r i n _ '}
+Guessing letter: h
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a i _ e r i n _ '}
+Guessing letter: t
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a i _ e r i n _ '}
+Guessing letter: b
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a i _ e r i n _ '}
+Guessing letter: k
+Sever response: {'game_id': '98fc0c330353', 'status': 'ongoing', 'tries_remains': 1, 'word': 'k a i _ e r i n _ '}
+Guessing letter: s
+Sever response: {'game_id': '98fc0c330353', 'status': 'success', 'tries_remains': 1, 'word': 'k a i s e r i n s '}
+Successfully finished game: 98fc0c330353
+accuracy = 57.895%
+Successfully start a new game! Game ID: 573a1d135207. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ _ r _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ _ r _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ t r _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ e _ t r _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ e n t r _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o _ _ _ e n t r _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o _ _ c e n t r _ c '}
+Guessing letter: i
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o _ _ c e n t r i c '}
+Guessing letter: l
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o l _ c e n t r i c '}
+Guessing letter: y
+Sever response: {'game_id': '573a1d135207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o l y c e n t r i c '}
+Guessing letter: p
+Sever response: {'game_id': '573a1d135207', 'status': 'success', 'tries_remains': 4, 'word': 'p o l y c e n t r i c '}
+Successfully finished game: 573a1d135207
+accuracy = 58.974%
+Successfully start a new game! Game ID: 5128593d9f80. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ r '}
+Guessing letter: a
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ e _ a r '}
+Guessing letter: m
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ e _ a r '}
+Guessing letter: l
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a l l e _ a r '}
+Guessing letter: v
+Sever response: {'game_id': '5128593d9f80', 'status': 'ongoing', 'tries_remains': 5, 'word': 'v a l l e _ a r '}
+Guessing letter: n
+Sever response: {'game_id': '5128593d9f80', 'status': 'success', 'tries_remains': 5, 'word': 'v a l l e n a r '}
+Successfully finished game: 5128593d9f80
+accuracy = 60.000%
+Successfully start a new game! Game ID: bf56c61de416. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ i _ _ i _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ n _ _ _ _ i _ _ i _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a _ i _ _ i _ a _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a _ i _ _ i c a _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a l i _ _ i c a l l _ '}
+Guessing letter: y
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a l i _ _ i c a l l y '}
+Guessing letter: t
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a l i _ t i c a l l y '}
+Guessing letter: s
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 6, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: g
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: h
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: u
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 3, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: e
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: d
+Sever response: {'game_id': 'bf56c61de416', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a n _ _ a l i s t i c a l l y '}
+Guessing letter: r
+Sever response: {'game_id': 'bf56c61de416', 'status': 'failed', 'tries_remains': 0, 'word': 'a n _ _ a l i s t i c a l l y '}
+Failed game: bf56c61de416. Because of: # of tries exceeded!
+accuracy = 58.537%
+Successfully start a new game! Game ID: 7c0dcd34043c. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '7c0dcd34043c', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ _ _ _ _ '}
+Failed game: 7c0dcd34043c. Because of: # of tries exceeded!
+accuracy = 57.143%
+Successfully start a new game! Game ID: ce79b8a35986. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ h _ _ _ _ _ e '}
+Guessing letter: c
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ h _ _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ h a _ _ _ _ e '}
+Guessing letter: s
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ s _ h a _ s _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ s _ h a _ s _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ s _ h a _ s _ n e '}
+Guessing letter: i
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i s _ h a _ s i n e '}
+Guessing letter: o
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i s o h a _ s i n e '}
+Guessing letter: u
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i s o h a _ s i n e '}
+Guessing letter: p
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'ongoing', 'tries_remains': 2, 'word': 'i s o h a _ s i n e '}
+Guessing letter: l
+Sever response: {'game_id': 'ce79b8a35986', 'status': 'success', 'tries_remains': 2, 'word': 'i s o h a l s i n e '}
+Successfully finished game: ce79b8a35986
+accuracy = 58.140%
+Successfully start a new game! Game ID: f5a0a35e77e4. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ e r _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ e r _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ e r _ a _ '}
+Guessing letter: n
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ e r _ a _ '}
+Guessing letter: i
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ e r _ a _ '}
+Guessing letter: u
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ e r _ a _ '}
+Guessing letter: l
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ e r _ a _ '}
+Guessing letter: t
+Sever response: {'game_id': 'f5a0a35e77e4', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ e r _ a _ '}
+Failed game: f5a0a35e77e4. Because of: # of tries exceeded!
+accuracy = 56.818%
+Successfully start a new game! Game ID: ded82afb26e0. # of tries remaining: 6. Word: _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ '}
+Guessing letter: m
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ '}
+Guessing letter: b
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a _ _ '}
+Guessing letter: k
+Sever response: {'game_id': 'ded82afb26e0', 'status': 'failed', 'tries_remains': 0, 'word': '_ a _ _ '}
+Failed game: ded82afb26e0. Because of: # of tries exceeded!
+accuracy = 55.556%
+Successfully start a new game! Game ID: 1f8767d5b0a0. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ e _ '}
+Guessing letter: l
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ e _ '}
+Guessing letter: s
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ e _ '}
+Guessing letter: t
+Sever response: {'game_id': '1f8767d5b0a0', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ e _ '}
+Failed game: 1f8767d5b0a0. Because of: # of tries exceeded!
+accuracy = 54.348%
+Successfully start a new game! Game ID: 0052179fb175. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ e _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ _ e _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e n _ _ _ _ _ e _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 4, 'word': 't e n t _ t _ _ e _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 4, 'word': 't e n t a t _ _ e _ _ '}
+Guessing letter: u
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 3, 'word': 't e n t a t _ _ e _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 2, 'word': 't e n t a t _ _ e _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 2, 'word': 't e n t a t i _ e _ _ '}
+Guessing letter: v
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 2, 'word': 't e n t a t i v e _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '0052179fb175', 'status': 'ongoing', 'tries_remains': 2, 'word': 't e n t a t i v e l _ '}
+Guessing letter: y
+Sever response: {'game_id': '0052179fb175', 'status': 'success', 'tries_remains': 2, 'word': 't e n t a t i v e l y '}
+Successfully finished game: 0052179fb175
+accuracy = 55.319%
+Successfully start a new game! Game ID: 5066aa12de51. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ r _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ r _ _ '}
+Guessing letter: u
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ u r _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ u r _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '5066aa12de51', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ u r t _ '}
+Guessing letter: l
+Sever response: {'game_id': '5066aa12de51', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ u r t _ '}
+Failed game: 5066aa12de51. Because of: # of tries exceeded!
+accuracy = 54.167%
+Successfully start a new game! Game ID: 2fbc991de3d4. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 6, 'word': 'h _ _ _ _ _ _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 6, 'word': 'h a _ _ _ _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 6, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: d
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: t
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: m
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: k
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 2, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: l
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h a r _ _ _ _ e r '}
+Guessing letter: s
+Sever response: {'game_id': '2fbc991de3d4', 'status': 'failed', 'tries_remains': 0, 'word': 'h a r _ _ _ _ e r '}
+Failed game: 2fbc991de3d4. Because of: # of tries exceeded!
+accuracy = 53.061%
+Successfully start a new game! Game ID: 4b05cf6f6012. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ i _ _ _ _ _ _ _ i _ '}
+Guessing letter: n
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n _ i _ _ _ _ _ _ _ i _ '}
+Guessing letter: a
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n _ i _ _ _ _ _ a _ i _ '}
+Guessing letter: t
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n t i _ t _ _ _ a t i _ '}
+Guessing letter: s
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n t i s t _ _ _ a t i _ '}
+Guessing letter: c
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n t i s t _ _ _ a t i c '}
+Guessing letter: m
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n t i s t _ _ m a t i c '}
+Guessing letter: r
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a n t i s t r _ m a t i c '}
+Guessing letter: o
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a n t i s t r _ m a t i c '}
+Guessing letter: u
+Sever response: {'game_id': '4b05cf6f6012', 'status': 'success', 'tries_remains': 4, 'word': 'a n t i s t r u m a t i c '}
+Successfully finished game: 4b05cf6f6012
+accuracy = 54.000%
+Successfully start a new game! Game ID: d58a9c924bc0. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ n _ '}
+Guessing letter: a
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ n _ '}
+Guessing letter: i
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ _ i n _ '}
+Guessing letter: b
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ b i n _ '}
+Guessing letter: d
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ b i n d '}
+Guessing letter: l
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e l l b i n d '}
+Guessing letter: h
+Sever response: {'game_id': 'd58a9c924bc0', 'status': 'success', 'tries_remains': 3, 'word': 'h e l l b i n d '}
+Successfully finished game: d58a9c924bc0
+accuracy = 54.902%
+Successfully start a new game! Game ID: 4a4b2a21fbb3. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ e _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r e _ _ _ _ _ _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 6, 'word': 'p r e _ _ _ _ p _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ p _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 5, 'word': 'p r e _ _ _ _ p i _ '}
+Guessing letter: n
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p r e _ _ _ _ p i _ '}
+Guessing letter: u
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r e _ _ _ _ p i _ '}
+Guessing letter: s
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r e s _ _ _ p i _ '}
+Guessing letter: t
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 2, 'word': 'p r e s _ _ _ p i _ '}
+Guessing letter: h
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 1, 'word': 'p r e s _ _ _ p i _ '}
+Guessing letter: o
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'ongoing', 'tries_remains': 1, 'word': 'p r e s _ _ o p i _ '}
+Guessing letter: m
+Sever response: {'game_id': '4a4b2a21fbb3', 'status': 'failed', 'tries_remains': 0, 'word': 'p r e s _ _ o p i _ '}
+Failed game: 4a4b2a21fbb3. Because of: # of tries exceeded!
+accuracy = 53.846%
+Successfully start a new game! Game ID: a96fba28b265. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ g _ _ _ i n g '}
+Guessing letter: a
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ g _ a _ i n g '}
+Guessing letter: r
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r _ g r a _ i n g '}
+Guessing letter: v
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r _ g r a _ i n g '}
+Guessing letter: p
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r _ g r a _ i n g '}
+Guessing letter: o
+Sever response: {'game_id': 'a96fba28b265', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r o g r a _ i n g '}
+Guessing letter: m
+Sever response: {'game_id': 'a96fba28b265', 'status': 'success', 'tries_remains': 3, 'word': 'p r o g r a m i n g '}
+Successfully finished game: a96fba28b265
+accuracy = 54.717%
+Successfully start a new game! Game ID: d590ec5cd5fc. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 6, 'word': 'e _ _ _ e r _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 5, 'word': 'e _ _ _ e r _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 4, 'word': 'e _ _ _ e r _ _ '}
+Guessing letter: o
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e _ _ _ e r _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e _ i _ e r i _ '}
+Guessing letter: p
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e p i _ e r i _ '}
+Guessing letter: m
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'e p i m e r i _ '}
+Guessing letter: c
+Sever response: {'game_id': 'd590ec5cd5fc', 'status': 'success', 'tries_remains': 3, 'word': 'e p i m e r i c '}
+Successfully finished game: d590ec5cd5fc
+accuracy = 55.556%
+Successfully start a new game! Game ID: 89152cfb2fc6. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ r _ '}
+Guessing letter: a
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ r _ '}
+Guessing letter: t
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': 't _ _ _ t _ e _ _ r _ '}
+Guessing letter: h
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': 't h _ _ t _ e _ _ r _ '}
+Guessing letter: l
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': 't h _ _ t l e _ _ r _ '}
+Guessing letter: i
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': 't h i _ t l e _ i r _ '}
+Guessing letter: s
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 5, 'word': 't h i s t l e _ i r _ '}
+Guessing letter: v
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 4, 'word': 't h i s t l e _ i r _ '}
+Guessing letter: k
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 3, 'word': 't h i s t l e _ i r _ '}
+Guessing letter: m
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 2, 'word': 't h i s t l e _ i r _ '}
+Guessing letter: w
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'ongoing', 'tries_remains': 1, 'word': 't h i s t l e _ i r _ '}
+Guessing letter: n
+Sever response: {'game_id': '89152cfb2fc6', 'status': 'failed', 'tries_remains': 0, 'word': 't h i s t l e _ i r _ '}
+Failed game: 89152cfb2fc6. Because of: # of tries exceeded!
+accuracy = 54.545%
+Successfully start a new game! Game ID: bfcbaf62e35a. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ _ _ _ _ _ _ '}
+Guessing letter: b
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ _ _ _ _ _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 2, 'word': 'm e _ _ _ _ _ _ _ m '}
+Guessing letter: a
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 1, 'word': 'm e _ _ _ _ _ _ _ m '}
+Guessing letter: u
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 1, 'word': 'm e _ _ _ _ u _ u m '}
+Guessing letter: t
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'ongoing', 'tries_remains': 1, 'word': 'm e _ _ _ _ u t u m '}
+Guessing letter: h
+Sever response: {'game_id': 'bfcbaf62e35a', 'status': 'failed', 'tries_remains': 0, 'word': 'm e _ _ _ _ u t u m '}
+Failed game: bfcbaf62e35a. Because of: # of tries exceeded!
+accuracy = 53.571%
+Successfully start a new game! Game ID: 8ae2ab5d4bcf. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ _ _ n _ '}
+Guessing letter: a
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a _ e _ a _ _ n _ '}
+Guessing letter: i
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a _ e _ a _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a g e _ a _ i n g '}
+Guessing letter: m
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a g e m a _ i n g '}
+Guessing letter: k
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a g e m a k i n g '}
+Guessing letter: t
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ a g e m a k i n g '}
+Guessing letter: s
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a s s a g e m a k i n g '}
+Guessing letter: p
+Sever response: {'game_id': '8ae2ab5d4bcf', 'status': 'success', 'tries_remains': 4, 'word': 'p a s s a g e m a k i n g '}
+Successfully finished game: 8ae2ab5d4bcf
+accuracy = 54.386%
+Successfully start a new game! Game ID: edf2d1dd74a1. # of tries remaining: 6. Word: _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': 'edf2d1dd74a1', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ '}
+Failed game: edf2d1dd74a1. Because of: # of tries exceeded!
+accuracy = 53.448%
+Successfully start a new game! Game ID: 4a0101941744. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r _ _ _ _ _ e _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r _ _ a _ _ e _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 6, 'word': 'i r i _ a _ _ e _ i _ '}
+Guessing letter: t
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i r i _ a _ _ e _ i _ '}
+Guessing letter: d
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i r i d a _ _ e _ i _ '}
+Guessing letter: n
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i r i d a _ _ e _ i _ '}
+Guessing letter: h
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i r i d a _ _ e _ i _ '}
+Guessing letter: c
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 2, 'word': 'i r i d a _ _ e _ i _ '}
+Guessing letter: l
+Sever response: {'game_id': '4a0101941744', 'status': 'ongoing', 'tries_remains': 1, 'word': 'i r i d a _ _ e _ i _ '}
+Guessing letter: m
+Sever response: {'game_id': '4a0101941744', 'status': 'failed', 'tries_remains': 0, 'word': 'i r i d a _ _ e _ i _ '}
+Failed game: 4a0101941744. Because of: # of tries exceeded!
+accuracy = 52.542%
+Successfully start a new game! Game ID: 68517dfe61bb. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ e _ _ n '}
+Guessing letter: a
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ a _ _ e _ a n '}
+Guessing letter: h
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h _ _ a _ _ e _ a n '}
+Guessing letter: m
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h _ _ a _ _ e _ a n '}
+Guessing letter: o
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h o _ a _ _ e _ a n '}
+Guessing letter: l
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h o _ a l _ e _ a n '}
+Guessing letter: d
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 3, 'word': 'h o _ a l _ e _ a n '}
+Guessing letter: s
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 2, 'word': 'h o _ a l _ e _ a n '}
+Guessing letter: t
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 2, 'word': 'h o _ a l t e _ a n '}
+Guessing letter: w
+Sever response: {'game_id': '68517dfe61bb', 'status': 'ongoing', 'tries_remains': 1, 'word': 'h o _ a l t e _ a n '}
+Guessing letter: b
+Sever response: {'game_id': '68517dfe61bb', 'status': 'failed', 'tries_remains': 0, 'word': 'h o _ a l t e _ a n '}
+Failed game: 68517dfe61bb. Because of: # of tries exceeded!
+accuracy = 51.667%
+Successfully start a new game! Game ID: 0a267648d551. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ a '}
+Guessing letter: h
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ a '}
+Guessing letter: r
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r _ _ _ _ a '}
+Guessing letter: i
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r i _ _ _ a '}
+Guessing letter: l
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ _ a '}
+Guessing letter: t
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ r i _ _ _ a '}
+Guessing letter: b
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ r i _ _ _ a '}
+Guessing letter: g
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 1, 'word': 'g r i _ _ _ a '}
+Guessing letter: n
+Sever response: {'game_id': '0a267648d551', 'status': 'ongoing', 'tries_remains': 1, 'word': 'g r i _ _ n a '}
+Guessing letter: k
+Sever response: {'game_id': '0a267648d551', 'status': 'failed', 'tries_remains': 0, 'word': 'g r i _ _ n a '}
+Failed game: 0a267648d551. Because of: # of tries exceeded!
+accuracy = 50.820%
+Successfully start a new game! Game ID: ec1d17edccb5. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ l _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ _ a l _ _ _ _ e '}
+Guessing letter: m
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a m _ _ _ a l _ _ _ m e '}
+Guessing letter: o
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a m _ _ _ a l o _ o m e '}
+Guessing letter: b
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 4, 'word': 'a m _ _ _ a l o _ o m e '}
+Guessing letter: p
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 3, 'word': 'a m _ _ _ a l o _ o m e '}
+Guessing letter: n
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 2, 'word': 'a m _ _ _ a l o _ o m e '}
+Guessing letter: r
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'ongoing', 'tries_remains': 1, 'word': 'a m _ _ _ a l o _ o m e '}
+Guessing letter: s
+Sever response: {'game_id': 'ec1d17edccb5', 'status': 'failed', 'tries_remains': 0, 'word': 'a m _ _ _ a l o _ o m e '}
+Failed game: ec1d17edccb5. Because of: # of tries exceeded!
+accuracy = 50.000%
+Successfully start a new game! Game ID: 11ed22a17bff. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ l e _ _ l _ e '}
+Guessing letter: a
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a l e _ _ l _ e '}
+Guessing letter: m
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm a l e _ _ l _ e '}
+Guessing letter: i
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 2, 'word': 'm a l e _ _ l _ e '}
+Guessing letter: s
+Sever response: {'game_id': '11ed22a17bff', 'status': 'ongoing', 'tries_remains': 1, 'word': 'm a l e _ _ l _ e '}
+Guessing letter: t
+Sever response: {'game_id': '11ed22a17bff', 'status': 'failed', 'tries_remains': 0, 'word': 'm a l e _ _ l _ e '}
+Failed game: 11ed22a17bff. Because of: # of tries exceeded!
+accuracy = 49.206%
+Successfully start a new game! Game ID: 2c4ebff7a664. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ _ _ _ _ _ _ _ e '}
+Guessing letter: i
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ _ _ i _ _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ _ _ i _ _ n _ e '}
+Guessing letter: a
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ _ _ i _ a n _ e '}
+Guessing letter: d
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ _ _ i d a n _ e '}
+Guessing letter: g
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e l _ g _ i d a n _ e '}
+Guessing letter: m
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e l _ g _ i d a n _ e '}
+Guessing letter: t
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e l _ g _ i d a n _ e '}
+Guessing letter: u
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e l _ g u i d a n _ e '}
+Guessing letter: b
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e l _ g u i d a n _ e '}
+Guessing letter: o
+Sever response: {'game_id': '2c4ebff7a664', 'status': 'failed', 'tries_remains': 0, 'word': '_ e l _ g u i d a n _ e '}
+Failed game: 2c4ebff7a664. Because of: # of tries exceeded!
+accuracy = 48.438%
+Successfully start a new game! Game ID: c665cb636dc5. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ n _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ n _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e i n _ _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e i n _ t _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e i n s t _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e i n s t _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e i n s t _ _ _ '}
+Guessing letter: u
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e i n s t u _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e i n s t u _ _ '}
+Guessing letter: w
+Sever response: {'game_id': 'c665cb636dc5', 'status': 'failed', 'tries_remains': 0, 'word': '_ e i n s t u _ _ '}
+Failed game: c665cb636dc5. Because of: # of tries exceeded!
+accuracy = 47.692%
+Successfully start a new game! Game ID: 59260eb35848. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e e _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e e _ _ _ _ _ _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 5, 'word': 'l e e _ _ _ _ _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 5, 'word': 'l e e _ _ _ _ _ _ s _ '}
+Guessing letter: h
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 4, 'word': 'l e e _ _ _ _ _ _ s _ '}
+Guessing letter: a
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 4, 'word': 'l e e _ a _ _ _ _ s _ '}
+Guessing letter: r
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 4, 'word': 'l e e _ a r _ _ _ s _ '}
+Guessing letter: d
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 4, 'word': 'l e e _ a r d _ _ s _ '}
+Guessing letter: i
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 3, 'word': 'l e e _ a r d _ _ s _ '}
+Guessing letter: t
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 3, 'word': 'l e e _ a r d _ _ s t '}
+Guessing letter: w
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 3, 'word': 'l e e w a r d _ _ s t '}
+Guessing letter: o
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 3, 'word': 'l e e w a r d _ o s t '}
+Guessing letter: p
+Sever response: {'game_id': '59260eb35848', 'status': 'ongoing', 'tries_remains': 2, 'word': 'l e e w a r d _ o s t '}
+Guessing letter: m
+Sever response: {'game_id': '59260eb35848', 'status': 'success', 'tries_remains': 2, 'word': 'l e e w a r d m o s t '}
+Successfully finished game: 59260eb35848
+accuracy = 48.485%
+Successfully start a new game! Game ID: a38dfd091f0c. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ _ _ _ _ _ _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ n _ _ _ _ n _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ a n _ _ _ _ n a _ e '}
+Guessing letter: t
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e t a n t _ _ _ n a t e '}
+Guessing letter: m
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm e t a n t _ m _ n a t e '}
+Guessing letter: o
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm e t a n t _ m o n a t e '}
+Guessing letter: i
+Sever response: {'game_id': 'a38dfd091f0c', 'status': 'success', 'tries_remains': 3, 'word': 'm e t a n t i m o n a t e '}
+Successfully finished game: a38dfd091f0c
+accuracy = 49.254%
+Successfully start a new game! Game ID: 1f7da3836930. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ e _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e r _ r e _ _ e _ '}
+Guessing letter: t
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ t e r _ r e t t e _ '}
+Guessing letter: b
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ t e r _ r e t t e _ '}
+Guessing letter: n
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n t e r _ r e t t e _ '}
+Guessing letter: i
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e r _ r e t t e _ '}
+Guessing letter: f
+Sever response: {'game_id': '1f7da3836930', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e r f r e t t e _ '}
+Guessing letter: d
+Sever response: {'game_id': '1f7da3836930', 'status': 'success', 'tries_remains': 5, 'word': 'i n t e r f r e t t e d '}
+Successfully finished game: 1f7da3836930
+accuracy = 50.000%
+Successfully start a new game! Game ID: c2d7ad5120bf. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ e _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ e r _ _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ e r _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ e r _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ e r _ i _ _ '}
+Guessing letter: u
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ e r _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ e r _ i _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ e r _ i l l '}
+Guessing letter: d
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ e r _ i l l '}
+Guessing letter: s
+Sever response: {'game_id': 'c2d7ad5120bf', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ e r _ i l l '}
+Failed game: c2d7ad5120bf. Because of: # of tries exceeded!
+accuracy = 49.275%
+Successfully start a new game! Game ID: 4fc53724d85b. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ h _ e _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ h _ e _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ h _ e s _ '}
+Guessing letter: t
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ t h _ e s t '}
+Guessing letter: a
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a t h _ e s t '}
+Guessing letter: i
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a t h i e s t '}
+Guessing letter: m
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ a t h i e s t '}
+Guessing letter: b
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ a t h i e s t '}
+Guessing letter: k
+Sever response: {'game_id': '4fc53724d85b', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ a t h i e s t '}
+Guessing letter: p
+Sever response: {'game_id': '4fc53724d85b', 'status': 'failed', 'tries_remains': 0, 'word': '_ a t h i e s t '}
+Failed game: 4fc53724d85b. Because of: # of tries exceeded!
+accuracy = 48.571%
+Successfully start a new game! Game ID: 586fb379975f. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ a _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ a _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ a _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ a n _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ l a n _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ l a n _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '586fb379975f', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l a n _ _ '}
+Guessing letter: b
+Sever response: {'game_id': '586fb379975f', 'status': 'failed', 'tries_remains': 0, 'word': '_ l a n _ _ '}
+Failed game: 586fb379975f. Because of: # of tries exceeded!
+accuracy = 47.887%
+Successfully start a new game! Game ID: 16879be16bc6. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ e _ _ _ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ n _ e n _ _ e n _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ n _ e n t _ e n t _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ n _ e n t _ e n t _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ n _ e n t i e n t _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o n _ e n t i e n t _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o n s e n t i e n t _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': 'c o n s e n t i e n t _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '16879be16bc6', 'status': 'ongoing', 'tries_remains': 4, 'word': 'c o n s e n t i e n t l _ '}
+Guessing letter: y
+Sever response: {'game_id': '16879be16bc6', 'status': 'success', 'tries_remains': 4, 'word': 'c o n s e n t i e n t l y '}
+Successfully finished game: 16879be16bc6
+accuracy = 48.611%
+Successfully start a new game! Game ID: 47f557d218a4. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ i _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ i _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r i _ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r i _ _ t _ _ _ _ _ t _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r i _ _ t _ _ _ _ _ t _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r i _ _ t _ _ _ _ a t _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ r i _ _ t _ _ _ _ a t _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r i _ _ t _ _ _ _ a t _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r i e _ t e _ _ _ a t e _ '}
+Guessing letter: s
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r i e s t e _ _ _ a t e _ '}
+Guessing letter: d
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r i e s t e d _ _ a t e d '}
+Guessing letter: c
+Sever response: {'game_id': '47f557d218a4', 'status': 'ongoing', 'tries_remains': 3, 'word': 'p r i e s t e d _ c a t e d '}
+Guessing letter: u
+Sever response: {'game_id': '47f557d218a4', 'status': 'success', 'tries_remains': 3, 'word': 'p r i e s t e d u c a t e d '}
+Successfully finished game: 47f557d218a4
+accuracy = 49.315%
+Successfully start a new game! Game ID: a80399277a88. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ r e '}
+Guessing letter: a
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ a _ _ r e '}
+Guessing letter: n
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ a _ _ r e '}
+Guessing letter: t
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ a _ _ r e '}
+Guessing letter: m
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ a m _ r e '}
+Guessing letter: o
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ a m o r e '}
+Guessing letter: d
+Sever response: {'game_id': 'a80399277a88', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ a m o r e '}
+Guessing letter: k
+Sever response: {'game_id': 'a80399277a88', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ a m o r e '}
+Failed game: a80399277a88. Because of: # of tries exceeded!
+accuracy = 48.649%
+Successfully start a new game! Game ID: 984d1b315abb. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ e _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ n _ e _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ n _ e _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ n _ e _ o _ '}
+Guessing letter: d
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ n _ e _ o _ '}
+Guessing letter: g
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ n g e _ o _ '}
+Guessing letter: i
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ n g e _ o i '}
+Guessing letter: u
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ u n g e _ o i '}
+Guessing letter: k
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ u n g e _ o i '}
+Guessing letter: h
+Sever response: {'game_id': '984d1b315abb', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ u n g e _ o i '}
+Guessing letter: s
+Sever response: {'game_id': '984d1b315abb', 'status': 'failed', 'tries_remains': 0, 'word': '_ u n g e _ o i '}
+Failed game: 984d1b315abb. Because of: # of tries exceeded!
+accuracy = 48.000%
+Successfully start a new game! Game ID: 749930e94e1e. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ e _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ n _ n e _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ n i n e _ _ '}
+Guessing letter: b
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ n i n e _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ n i n e _ _ '}
+Guessing letter: s
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ n i n e _ _ '}
+Guessing letter: p
+Sever response: {'game_id': '749930e94e1e', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e _ n i n e _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '749930e94e1e', 'status': 'failed', 'tries_remains': 0, 'word': '_ e _ n i n e _ _ '}
+Failed game: 749930e94e1e. Because of: # of tries exceeded!
+accuracy = 47.368%
+Successfully start a new game! Game ID: 1ff93f417f8a. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 4, 'word': 'r _ _ _ _ _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 4, 'word': 'r _ _ _ _ a _ _ _ e '}
+Guessing letter: o
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r _ _ _ _ a _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r _ _ _ _ a n _ _ e '}
+Guessing letter: t
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r _ _ _ _ a n _ _ e '}
+Guessing letter: d
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'ongoing', 'tries_remains': 1, 'word': 'r _ _ _ _ a n _ _ e '}
+Guessing letter: g
+Sever response: {'game_id': '1ff93f417f8a', 'status': 'failed', 'tries_remains': 0, 'word': 'r _ _ _ _ a n _ _ e '}
+Failed game: 1ff93f417f8a. Because of: # of tries exceeded!
+accuracy = 46.753%
+Successfully start a new game! Game ID: 22014a55cd30. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ r _ e _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ a r _ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ n _ a r _ e _ _ n _ '}
+Guessing letter: t
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n _ a r _ e _ _ n _ '}
+Guessing letter: i
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n _ a r _ e _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n _ a r _ e _ i n g '}
+Guessing letter: u
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 5, 'word': 'u n _ a r _ e _ i n g '}
+Guessing letter: m
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 4, 'word': 'u n _ a r _ e _ i n g '}
+Guessing letter: l
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 4, 'word': 'u n _ a r _ e l i n g '}
+Guessing letter: h
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 3, 'word': 'u n _ a r _ e l i n g '}
+Guessing letter: s
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 2, 'word': 'u n _ a r _ e l i n g '}
+Guessing letter: c
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 2, 'word': 'u n _ a r c e l i n g '}
+Guessing letter: b
+Sever response: {'game_id': '22014a55cd30', 'status': 'ongoing', 'tries_remains': 1, 'word': 'u n _ a r c e l i n g '}
+Guessing letter: p
+Sever response: {'game_id': '22014a55cd30', 'status': 'success', 'tries_remains': 1, 'word': 'u n p a r c e l i n g '}
+Successfully finished game: 22014a55cd30
+accuracy = 47.436%
+Successfully start a new game! Game ID: 64c0ac185ed2. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ e _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ e _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e _ _ e _ _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ n _ e _ _ e _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ n _ e _ _ e _ _ _ _ e '}
+Guessing letter: i
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i n _ e _ _ e _ _ i _ e '}
+Guessing letter: t
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i n t e _ _ e _ t i _ e '}
+Guessing letter: v
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 3, 'word': 'i n t e _ _ e _ t i v e '}
+Guessing letter: b
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 2, 'word': 'i n t e _ _ e _ t i v e '}
+Guessing letter: l
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'ongoing', 'tries_remains': 1, 'word': 'i n t e _ _ e _ t i v e '}
+Guessing letter: c
+Sever response: {'game_id': '64c0ac185ed2', 'status': 'failed', 'tries_remains': 0, 'word': 'i n t e _ _ e _ t i v e '}
+Failed game: 64c0ac185ed2. Because of: # of tries exceeded!
+accuracy = 46.835%
+Successfully start a new game! Game ID: f0d0e8ee168e. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ h _ _ _ _ _ _ _ _ _ e _ '}
+Guessing letter: c
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h _ _ _ _ _ _ _ _ _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h _ _ _ _ _ a _ _ _ e _ '}
+Guessing letter: i
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h _ i _ _ i a _ i _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h r i _ _ i a _ i _ e _ '}
+Guessing letter: s
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h r i s _ i a _ i _ e _ '}
+Guessing letter: t
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h r i s t i a _ i _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h r i s t i a n i _ e _ '}
+Guessing letter: z
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'ongoing', 'tries_remains': 6, 'word': 'c h r i s t i a n i z e _ '}
+Guessing letter: d
+Sever response: {'game_id': 'f0d0e8ee168e', 'status': 'success', 'tries_remains': 6, 'word': 'c h r i s t i a n i z e d '}
+Successfully finished game: f0d0e8ee168e
+accuracy = 47.500%
+Successfully start a new game! Game ID: 293bb82d9201. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ e _ '}
+Guessing letter: n
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ n _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ n _ e _ '}
+Guessing letter: o
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o n _ e _ '}
+Guessing letter: d
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ o n _ e d '}
+Guessing letter: m
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ o n _ e d '}
+Guessing letter: g
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ o n _ e d '}
+Guessing letter: b
+Sever response: {'game_id': '293bb82d9201', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ o n _ e d '}
+Guessing letter: s
+Sever response: {'game_id': '293bb82d9201', 'status': 'failed', 'tries_remains': 0, 'word': '_ o n _ e d '}
+Failed game: 293bb82d9201. Because of: # of tries exceeded!
+accuracy = 46.914%
+Successfully start a new game! Game ID: ebd4694daafd. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r _ _ _ e _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ r a _ _ e _ a '}
+Guessing letter: h
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r a _ _ e _ a '}
+Guessing letter: n
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ r a n _ e _ a '}
+Guessing letter: k
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ r a n _ e _ a '}
+Guessing letter: g
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 4, 'word': 'g r a n _ e _ a '}
+Guessing letter: d
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 4, 'word': 'g r a n d e _ a '}
+Guessing letter: s
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 3, 'word': 'g r a n d e _ a '}
+Guessing letter: l
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 2, 'word': 'g r a n d e _ a '}
+Guessing letter: m
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'ongoing', 'tries_remains': 1, 'word': 'g r a n d e _ a '}
+Guessing letter: w
+Sever response: {'game_id': 'ebd4694daafd', 'status': 'failed', 'tries_remains': 0, 'word': 'g r a n d e _ a '}
+Failed game: ebd4694daafd. Because of: # of tries exceeded!
+accuracy = 46.341%
+Successfully start a new game! Game ID: 4c7359a30452. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: b
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e _ _ _ e _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '4c7359a30452', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e _ _ l e _ _ l '}
+Guessing letter: a
+Sever response: {'game_id': '4c7359a30452', 'status': 'failed', 'tries_remains': 0, 'word': '_ e _ _ l e _ _ l '}
+Failed game: 4c7359a30452. Because of: # of tries exceeded!
+accuracy = 45.783%
+Successfully start a new game! Game ID: 077aaa5f0222. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ a '}
+Guessing letter: h
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ a '}
+Guessing letter: r
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ r _ _ a '}
+Guessing letter: o
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ r _ _ a '}
+Guessing letter: u
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ u r _ _ a '}
+Guessing letter: l
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ u r _ _ a '}
+Guessing letter: i
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ u r i _ a '}
+Guessing letter: m
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ u r i _ a '}
+Guessing letter: s
+Sever response: {'game_id': '077aaa5f0222', 'status': 'ongoing', 'tries_remains': 1, 'word': 's u r i _ a '}
+Guessing letter: k
+Sever response: {'game_id': '077aaa5f0222', 'status': 'failed', 'tries_remains': 0, 'word': 's u r i _ a '}
+Failed game: 077aaa5f0222. Because of: # of tries exceeded!
+accuracy = 45.238%
+Successfully start a new game! Game ID: 617cf5518a7b. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ _ _ i _ _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ i _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ i _ n _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ _ _ _ _ a _ i _ n a _ '}
+Guessing letter: l
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ l _ _ _ a _ i _ n a l '}
+Guessing letter: o
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ l _ _ _ a _ i o n a l '}
+Guessing letter: t
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ _ l t _ _ a t i o n a l '}
+Guessing letter: u
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ u l t u _ a t i o n a l '}
+Guessing letter: r
+Sever response: {'game_id': '617cf5518a7b', 'status': 'ongoing', 'tries_remains': 5, 'word': 'a _ _ u l t u r a t i o n a l '}
+Guessing letter: c
+Sever response: {'game_id': '617cf5518a7b', 'status': 'success', 'tries_remains': 5, 'word': 'a c c u l t u r a t i o n a l '}
+Successfully finished game: 617cf5518a7b
+accuracy = 45.882%
+Successfully start a new game! Game ID: 780b8adff4c2. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ i _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ i n _ '}
+Guessing letter: g
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ i n g '}
+Guessing letter: l
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ i n g '}
+Guessing letter: t
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ i n g '}
+Guessing letter: r
+Sever response: {'game_id': '780b8adff4c2', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ i n g '}
+Guessing letter: m
+Sever response: {'game_id': '780b8adff4c2', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ i n g '}
+Failed game: 780b8adff4c2. Because of: # of tries exceeded!
+accuracy = 45.349%
+Successfully start a new game! Game ID: 7ba735a472dc. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ i _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ i _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ i _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ i n _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ i n t _ '}
+Guessing letter: o
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ o i n t _ '}
+Guessing letter: p
+Sever response: {'game_id': '7ba735a472dc', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ o i n t _ '}
+Guessing letter: m
+Sever response: {'game_id': '7ba735a472dc', 'status': 'failed', 'tries_remains': 0, 'word': '_ o i n t _ '}
+Failed game: 7ba735a472dc. Because of: # of tries exceeded!
+accuracy = 44.828%
+Successfully start a new game! Game ID: ac3597462739. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e _ _ _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ n _ e _ _ _ _ e '}
+Guessing letter: a
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ n _ e _ _ _ _ e '}
+Guessing letter: d
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ n _ e _ _ _ _ e '}
+Guessing letter: i
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 2, 'word': 'i n _ e _ _ i _ e '}
+Guessing letter: t
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 2, 'word': 'i n _ e _ t i _ e '}
+Guessing letter: g
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 1, 'word': 'i n _ e _ t i _ e '}
+Guessing letter: v
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 1, 'word': 'i n _ e _ t i v e '}
+Guessing letter: c
+Sever response: {'game_id': 'ac3597462739', 'status': 'ongoing', 'tries_remains': 1, 'word': 'i n c e _ t i v e '}
+Guessing letter: p
+Sever response: {'game_id': 'ac3597462739', 'status': 'success', 'tries_remains': 1, 'word': 'i n c e p t i v e '}
+Successfully finished game: ac3597462739
+accuracy = 45.455%
+Successfully start a new game! Game ID: 85540bd77bb9. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ e _ _ _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ e _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e _ e _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e l e _ _ _ l e '}
+Guessing letter: n
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e l e n _ _ l e '}
+Guessing letter: a
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 5, 'word': 'h e l e n _ a l e '}
+Guessing letter: g
+Sever response: {'game_id': '85540bd77bb9', 'status': 'ongoing', 'tries_remains': 4, 'word': 'h e l e n _ a l e '}
+Guessing letter: d
+Sever response: {'game_id': '85540bd77bb9', 'status': 'success', 'tries_remains': 4, 'word': 'h e l e n d a l e '}
+Successfully finished game: 85540bd77bb9
+accuracy = 46.067%
+Successfully start a new game! Game ID: ba86a3a46389. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ _ _ _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e n _ _ _ _ n _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e n _ _ _ a n _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e n _ _ _ a n _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ h _ e n _ _ _ a n _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ h _ e n _ c _ a n _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ h o e n _ c _ a n _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ h o e n i c i a n i _ _ '}
+Guessing letter: p
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p h o e n i c i a n i _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'ongoing', 'tries_remains': 4, 'word': 'p h o e n i c i a n i s _ '}
+Guessing letter: m
+Sever response: {'game_id': 'ba86a3a46389', 'status': 'success', 'tries_remains': 4, 'word': 'p h o e n i c i a n i s m '}
+Successfully finished game: ba86a3a46389
+accuracy = 46.667%
+Successfully start a new game! Game ID: 2bfca7f4d2a7. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: i
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ _ _ _ i _ _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 6, 'word': 'n _ n _ _ _ _ _ i _ _ _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 6, 'word': 'n o n _ o _ _ _ i _ _ _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 5, 'word': 'n o n _ o _ _ _ i _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 5, 'word': 'n o n _ o _ _ r i _ _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 4, 'word': 'n o n _ o _ _ r i _ _ _ _ _ '}
+Guessing letter: e
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 4, 'word': 'n o n _ o _ _ r i _ _ _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n _ o _ _ r i _ _ _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n _ o l _ r i _ _ _ l e '}
+Guessing letter: b
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n _ o l _ r i _ _ b l e '}
+Guessing letter: a
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n _ o l a r i _ a b l e '}
+Guessing letter: p
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n p o l a r i _ a b l e '}
+Guessing letter: s
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n p o l a r i _ a b l e '}
+Guessing letter: z
+Sever response: {'game_id': '2bfca7f4d2a7', 'status': 'success', 'tries_remains': 2, 'word': 'n o n p o l a r i z a b l e '}
+Successfully finished game: 2bfca7f4d2a7
+accuracy = 47.253%
+Successfully start a new game! Game ID: e93f48659f38. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 6, 'word': 'r _ _ e _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 6, 'word': 'r a _ e _ _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 5, 'word': 'r a _ e _ _ _ _ '}
+Guessing letter: v
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 4, 'word': 'r a _ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 3, 'word': 'r a _ e _ _ _ _ '}
+Guessing letter: t
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r a _ e _ _ _ _ '}
+Guessing letter: s
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r a _ e _ _ _ s '}
+Guessing letter: u
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r a _ e _ _ u s '}
+Guessing letter: o
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r a _ e _ o u s '}
+Guessing letter: m
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 2, 'word': 'r a _ e m o u s '}
+Guessing letter: d
+Sever response: {'game_id': 'e93f48659f38', 'status': 'ongoing', 'tries_remains': 1, 'word': 'r a _ e m o u s '}
+Guessing letter: c
+Sever response: {'game_id': 'e93f48659f38', 'status': 'success', 'tries_remains': 1, 'word': 'r a c e m o u s '}
+Successfully finished game: e93f48659f38
+accuracy = 47.826%
+Successfully start a new game! Game ID: 16a2f6d6b980. # of tries remaining: 6. Word: _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ _ _ _ '}
+Guessing letter: b
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ _ _ _ '}
+Guessing letter: m
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e m _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e m _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ e m i _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ e m i _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '16a2f6d6b980', 'status': 'failed', 'tries_remains': 0, 'word': '_ e m i _ _ '}
+Failed game: 16a2f6d6b980. Because of: # of tries exceeded!
+accuracy = 47.312%
+Successfully start a new game! Game ID: e5fdb00b4207. # of tries remaining: 6. Word: _ _ _ _ _ .
+Guessing letter: a
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ a _ _ a '}
+Guessing letter: m
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ a _ _ a '}
+Guessing letter: r
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ a _ _ a '}
+Guessing letter: b
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 4, 'word': 'b a _ _ a '}
+Guessing letter: h
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 3, 'word': 'b a _ _ a '}
+Guessing letter: n
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 2, 'word': 'b a _ _ a '}
+Guessing letter: k
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'ongoing', 'tries_remains': 1, 'word': 'b a _ _ a '}
+Guessing letter: l
+Sever response: {'game_id': 'e5fdb00b4207', 'status': 'failed', 'tries_remains': 0, 'word': 'b a _ _ a '}
+Failed game: e5fdb00b4207. Because of: # of tries exceeded!
+accuracy = 46.809%
+Successfully start a new game! Game ID: 16bb2bfdfd62. # of tries remaining: 6. Word: _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e n _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ e n _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ e n _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ e n _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 2, 'word': 'l _ _ e n _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 1, 'word': 'l _ _ e n _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'ongoing', 'tries_remains': 1, 'word': 'l _ _ e n _ o '}
+Guessing letter: u
+Sever response: {'game_id': '16bb2bfdfd62', 'status': 'failed', 'tries_remains': 0, 'word': 'l _ _ e n _ o '}
+Failed game: 16bb2bfdfd62. Because of: # of tries exceeded!
+accuracy = 46.316%
+Successfully start a new game! Game ID: 63bf457f5f69. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ i _ _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ i _ _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ l _ _ _ l i _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ l _ _ _ l i _ _ _ _ '}
+Guessing letter: c
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ l _ _ _ l i _ _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ l o o _ l i _ _ _ _ '}
+Guessing letter: d
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ l o o d l i _ _ _ _ '}
+Guessing letter: b
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l o o d l i _ _ _ _ '}
+Guessing letter: g
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l o o d l i g _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l o o d l i g h _ _ '}
+Guessing letter: t
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l o o d l i g h t _ '}
+Guessing letter: s
+Sever response: {'game_id': '63bf457f5f69', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ l o o d l i g h t s '}
+Guessing letter: f
+Sever response: {'game_id': '63bf457f5f69', 'status': 'success', 'tries_remains': 1, 'word': 'f l o o d l i g h t s '}
+Successfully finished game: 63bf457f5f69
+accuracy = 46.875%
+Successfully start a new game! Game ID: 308bf8f0f6aa. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ _ _ e _ e _ _ e '}
+Guessing letter: n
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ e _ e _ _ e '}
+Guessing letter: r
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ e _ e _ _ e '}
+Guessing letter: h
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ e _ e _ _ e '}
+Guessing letter: l
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ e _ e _ _ e '}
+Guessing letter: t
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 2, 'word': '_ _ _ _ _ e t e _ _ e '}
+Guessing letter: m
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'ongoing', 'tries_remains': 1, 'word': '_ _ _ _ _ e t e _ _ e '}
+Guessing letter: p
+Sever response: {'game_id': '308bf8f0f6aa', 'status': 'failed', 'tries_remains': 0, 'word': '_ _ _ _ _ e t e _ _ e '}
+Failed game: 308bf8f0f6aa. Because of: # of tries exceeded!
+accuracy = 46.392%
+Successfully start a new game! Game ID: 1cbda4bc2fdc. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ _ _ _ _ _ _ '}
+Guessing letter: i
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ _ _ _ _ '}
+Guessing letter: a
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ _ _ _ _ a _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ _ _ _ _ a _ _ _ '}
+Guessing letter: n
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n _ n _ _ a _ _ _ '}
+Guessing letter: o
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 3, 'word': 'n o n _ _ a _ _ _ '}
+Guessing letter: h
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n _ _ a _ _ _ '}
+Guessing letter: l
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n _ _ a _ l _ '}
+Guessing letter: b
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n _ _ a b l _ '}
+Guessing letter: y
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n _ _ a b l y '}
+Guessing letter: s
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'ongoing', 'tries_remains': 2, 'word': 'n o n s _ a b l y '}
+Guessing letter: t
+Sever response: {'game_id': '1cbda4bc2fdc', 'status': 'success', 'tries_remains': 2, 'word': 'n o n s t a b l y '}
+Successfully finished game: 1cbda4bc2fdc
+accuracy = 46.939%
+Successfully start a new game! Game ID: 952ad00ce89c. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e _ _ _ _ _ _ _ _ '}
+Guessing letter: r
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ _ _ e r r _ _ _ _ _ r '}
+Guessing letter: h
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e r r _ _ _ _ _ r '}
+Guessing letter: a
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ _ e r r _ _ a _ _ r '}
+Guessing letter: t
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ _ t e r r _ _ a t _ r '}
+Guessing letter: n
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ n t e r r _ _ a t _ r '}
+Guessing letter: i
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 5, 'word': 'i n t e r r _ _ a t _ r '}
+Guessing letter: m
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i n t e r r _ _ a t _ r '}
+Guessing letter: o
+Sever response: {'game_id': '952ad00ce89c', 'status': 'ongoing', 'tries_remains': 4, 'word': 'i n t e r r o _ a t o r '}
+Guessing letter: g
+Sever response: {'game_id': '952ad00ce89c', 'status': 'success', 'tries_remains': 4, 'word': 'i n t e r r o g a t o r '}
+Successfully finished game: 952ad00ce89c
+accuracy = 47.475%
+Successfully start a new game! Game ID: ec2fefcf1a7a. # of tries remaining: 6. Word: _ _ _ _ _ _ _ _ _ _ .
+Guessing letter: e
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ _ _ _ _ _ e _ '}
+Guessing letter: h
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ h _ _ _ _ e _ '}
+Guessing letter: a
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 6, 'word': '_ e _ h a _ a _ e _ '}
+Guessing letter: c
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 5, 'word': '_ e _ h a _ a _ e _ '}
+Guessing letter: r
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 4, 'word': '_ e _ h a _ a _ e _ '}
+Guessing letter: l
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 3, 'word': '_ e _ h a _ a _ e _ '}
+Guessing letter: m
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm e _ h a _ a _ e _ '}
+Guessing letter: t
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm e t h a _ a t e _ '}
+Guessing letter: n
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 3, 'word': 'm e t h a n a t e _ '}
+Guessing letter: s
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'ongoing', 'tries_remains': 2, 'word': 'm e t h a n a t e _ '}
+Guessing letter: d
+Sever response: {'game_id': 'ec2fefcf1a7a', 'status': 'success', 'tries_remains': 2, 'word': 'm e t h a n a t e d '}
+Successfully finished game: ec2fefcf1a7a
+accuracy = 48.000%
