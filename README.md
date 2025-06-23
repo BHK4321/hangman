@@ -2,6 +2,11 @@
 
 This repository features an advanced neural network-based Hangman solver that leverages deep learning, frequency-based heuristics, and dictionary filtering to intelligently guess letters in the classic word game. The architecture is designed for robustness, with curriculum learning, dictionary-based reinforcement, and context-aware decoding.
 
+## Accuracy - 50% (90% on larger words)
+
+### How to run ?
+
+
 ![EnhancedHangmanModel1 Architecture](assets/1.png)
 
 ## Features
@@ -116,14 +121,14 @@ print(result)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/BHK4321/hangman.git
-   cd hangman
+   git clone https://github.com/BHK4321/hangmanAI.git
+   cd hangmanAI
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   pip install torch tqdm
+   pip install -r requirements.txt
    ```
 
 3. **Prepare your word list:**
@@ -133,30 +138,11 @@ print(result)
 
 ## Usage
 
-1. **Training:**
+**Run in ```hangmanAI.ipynb``` for testing:**
 
    ```python
-   from your_module import train_model1
-
-   model = train_model1(words, epochs=10)
+   result = simulate_hangman_game(solver1, solver2, "love", verbose=True)
    ```
-
-2. **Playing or Simulating:**
-
-   ```python
-   from your_module import HangmanSolver1, build_lengthwise_frequencies, simulate_hangman_game
-
-   word_list = [...]  # your word list
-   length_freq = build_lengthwise_frequencies(word_list)
-   solver = HangmanSolver1(word_list, length_freq)
-
-   result = simulate_hangman_game(solver, solver, 'exampleword', max_wrong=6, verbose=True)
-   ```
-
-3. **Custom Games:**
-   - Integrate the solver into any Hangman interface by calling `predict_letter` with the current state.
-
----
 
 ## License
 
